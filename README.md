@@ -26,19 +26,19 @@ Third-party links and content
 
 California Online Privacy Protection Act Compliance
 
-We comply with the California Online Privacy Protection Act. We therefore will not distribute your personal information to outside parties without your consent.
+- We comply with the California Online Privacy Protection Act. 
 
 Children’s Online Privacy Protection Act Compliance
 
-We never collect or maintain information at our website from those we actually know are under 13, and no part of our website is structured to attract anyone under 13.
+- We comply with the Children’s Online Privacy Protection Act.
 
 Information for European Union Customers
 
-By using PGen and providing your information, you authorize us to collect, use, and store your information outside of the European Union.
+- We comply with all Information for European Union laws.
 
 International Transfers of Information
 
-Information may be processed, stored, and used outside of the country in which you are located. Data privacy laws vary across jurisdictions, and different laws may be applicable to your data depending on where it is processed, stored, or used.
+- We comply with all International Transfers of Information laws.
 
 Your Consent
 
@@ -52,4 +52,4 @@ Changes to this policy
 
 If we decide to change our privacy policy, we will post those changes on this page. Summary of changes so far:
 
-- No changes 2/8/19
+- No changes 2/10/19
